@@ -1,0 +1,32 @@
+{
+  "name": "nostrumdistinctio",
+  "version": "1.0.0",
+  "description": "Miscellaneous array utilities written in TypeScript",
+  "main": "./dist/src/index.js",
+  "types": "./dist/src/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ConsueloBrekke/nostrumdistinctio.git"
+  },
+  "keywords": [
+    "neque",
+    "sint"
+  ],
+  "author": "ZoeyBrekke",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ConsueloBrekke/nostrumdistinctio.git/issues"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.1.4",
+    "@types/mocha": "^2.2.48",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3"
+  }
+}
